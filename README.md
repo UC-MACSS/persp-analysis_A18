@@ -43,7 +43,7 @@ Grades will be based on your performance on nine assignments, each of which is w
 | Oct.  1 | M | Introduction to Comp Soc Sci |              |    |
 | Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf) | A1 |
 |         |   |                              | CS2014       |    |
-| Oct.  8 | M | Observational data, big data | S2018, Ch. 2 |    |
+| Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
 | Oct. 10 | W | Observational data           |              | A2 |
 | Oct. 15 | M | Observational data           |              |    |
 | Oct. 17 | W | Simulated data               | Notes        | A3 |
@@ -66,6 +66,8 @@ Grades will be based on your performance on nine assignments, each of which is w
 ## References
 
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
+* [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
+* Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [\href{https://arxiv.org/pdf/1709.02445.pdf}{link here}]
 
 
 ## Disability services
