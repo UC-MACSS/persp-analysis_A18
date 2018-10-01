@@ -15,7 +15,7 @@
 |--------------|--------------------------------------------------------------|
 | Email | rwevans@uchicago.edu |
 | Office | 208 McGiffert House |
-| Office Hours | T 9:30-11:30am |
+| Office Hours | T 10:30-12:30am |
 | GitHub | [rickecon](https://github.com/rickecon) |
 
 * **Meeting day/time**: M,W 11:30am-1:20pm, Saieh Hall, Room 247
