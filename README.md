@@ -1,6 +1,6 @@
 # MACS 3000: Perspectives on Computational Analysis (Autumn 2018)
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Joshua G. Mausolf](http://jmausolf.github.io/) (TA) | [Nora Nickels](http://jmausolf.github.io/) (TA) |
+|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Joshua G. Mausolf](http://jmausolf.github.io/) (TA) | [Nora Nickels](https://voices.uchicago.edu/nnickels/) (TA) |
 |--------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
 | Email | rwevans@uchicago.edu | jmausolf@uchicago.edu | nnickels@uchicago.edu |
 | Office | 208 McGiffert House | 204 McGiffert House | 205 McGiffert House |
