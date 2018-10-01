@@ -67,7 +67,7 @@ Grades will be based on your performance on nine assignments, each of which is w
 
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
-* Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [\href{https://arxiv.org/pdf/1709.02445.pdf}{link here}]
+* Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
 
 
 ## Disability services
