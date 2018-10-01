@@ -11,17 +11,6 @@
 * **Lab session**: W 4:30-5:20pm, 247 Saieh Hall for Economics
 * Office hours also available by appointment
 
-|  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) |
-|--------------|--------------------------------------------------------------|
-| Email | rwevans@uchicago.edu |
-| Office | 208 McGiffert House |
-| Office Hours | T 10:30-12:30am |
-| GitHub | [rickecon](https://github.com/rickecon) |
-
-* **Meeting day/time**: M,W 11:30am-1:20pm, Saieh Hall, Room 247
-* **Lab time**: W 4:30-5:20pm, Saieh Hall, Room 247, or by appointment
-* Office hours also available by appointment
-
 
 ## Course Description, Objectives, and Outcomes
 
