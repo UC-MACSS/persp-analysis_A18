@@ -52,7 +52,7 @@ Grades will be based on your performance on nine assignments, each of which is w
 | Date  | Day |             Topic          | Readings | Homework |
 |-------|-----|------------------------------|--------------|----|
 | Oct.  1 | M | Introduction to Comp Soc Sci |              |    |
-| Oct.  3 | W | Git and GitHub               | Notes        | A1 |
+| Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf) | A1 |
 |         |   |                              | CS2014       |    |
 | Oct.  8 | M | Observational data, big data | S2018, Ch. 2 |    |
 | Oct. 10 | W | Observational data           |              | A2 |
