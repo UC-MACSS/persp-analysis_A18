@@ -4,7 +4,7 @@
 |--------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
 | Email | rwevans@uchicago.edu | jmausolf@uchicago.edu | nnickels@uchicago.edu |
 | Office | 208 McGiffert House | 204 McGiffert House | 205 McGiffert House |
-| Office Hours | Tu 10:30a-12:30p | TBA | TBA |
+| Office Hours | Tu 10:30a-12:30p | Mo 1:30p-3:00p | TBA |
 | GitHub | [rickecon](https://github.com/rickecon) | [jmausolf](https://github.com/jmausolf) | [nnickels](https://github.com/nnickels) |
 
 * **Meeting day/time**: MW 11:30-1:20pm, 247 Saieh Hall for Economics
