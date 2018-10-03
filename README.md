@@ -1,13 +1,13 @@
-# MACS 3000: Perspectives on Computational Analysis (Autumn 2018)
+# MACS 30000: Perspectives on Computational Analysis (Autumn 2018)
 
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Joshua G. Mausolf](http://jmausolf.github.io/) (TA) | [Nora Nickels](https://voices.uchicago.edu/nnickels/) (TA) |
 |--------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
 | Email | rwevans@uchicago.edu | jmausolf@uchicago.edu | nnickels@uchicago.edu |
 | Office | 208 McGiffert House | 204 McGiffert House | 205 McGiffert House |
-| Office Hours | Tu 10:30a-12:30p | Mo 1:30p-3:00p | Wed 2:00p-4:00p |
+| Office Hours | Tu 10:30a-12:30p | M 1:30p-3:00p | W 2:00p-4:00p |
 | GitHub | [rickecon](https://github.com/rickecon) | [jmausolf](https://github.com/jmausolf) | [nnickels](https://github.com/nnickels) |
 
-* **Meeting day/time**: MW 11:30-1:20pm, 247 Saieh Hall for Economics
+* **Meeting day/time**: MW 11:30pm-1:20am, 247 Saieh Hall for Economics
 * **Lab session**: W 4:30-5:20pm, 247 Saieh Hall for Economics
 * Office hours also available by appointment
 
@@ -40,8 +40,8 @@ Grades will be based on your performance on nine assignments, each of which is w
 
 | Date  | Day |             Topic          | Readings | Homework |
 |-------|-----|------------------------------|--------------|----|
-| Oct.  1 | M | Introduction to Comp Soc Sci |              |    |
-| Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf) | A1 |
+| Oct.  1 | M | Introduction to Comp Soc Sci | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Intro.pdf)             |    |
+| Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf) | [A1](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A1/Assign1.pdf) |
 |         |   |                              | CS2014       |    |
 | Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
 | Oct. 10 | W | Observational data           |              | A2 |
@@ -67,7 +67,7 @@ Grades will be based on your performance on nine assignments, each of which is w
 
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
-* Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [\href{https://arxiv.org/pdf/1709.02445.pdf}{link here}]
+* Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
 
 
 ## Disability services
