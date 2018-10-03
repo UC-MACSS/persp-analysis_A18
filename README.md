@@ -41,9 +41,8 @@ Grades will be based on your performance on nine assignments, each of which is w
 | Date  | Day |             Topic          | Readings | Homework |
 |-------|-----|------------------------------|--------------|----|
 | Oct.  1 | M | Introduction to Comp Soc Sci | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Intro.pdf)             |    |
-| Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf) | [A1](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A1/Assign1.pdf) |
+| Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf), [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Git.pdf) | [A1](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A1/Assign1.pdf) |
 |         |   |                              | CS2014       |    |
-|         |   |                              | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Git.pdf) |    |
 | Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
 | Oct. 10 | W | Observational data           |              | A2 |
 | Oct. 15 | M | Observational data           |              |    |
