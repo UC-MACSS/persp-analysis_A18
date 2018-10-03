@@ -7,7 +7,7 @@
 | Office Hours | Tu 10:30a-12:30p | M 1:30p-3:00p | W 2:00p-4:00p |
 | GitHub | [rickecon](https://github.com/rickecon) | [jmausolf](https://github.com/jmausolf) | [nnickels](https://github.com/nnickels) |
 
-* **Meeting day/time**: MW 11:30pm-1:20am, 247 Saieh Hall for Economics
+* **Meeting day/time**: MW 11:30am-1:20pm, 247 Saieh Hall for Economics
 * **Lab session**: W 4:30-5:20pm, 247 Saieh Hall for Economics
 * Office hours also available by appointment
 
