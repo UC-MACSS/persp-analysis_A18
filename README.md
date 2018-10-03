@@ -1,10 +1,10 @@
-# MACS 3000: Perspectives on Computational Analysis (Autumn 2018)
+# MACS 30000: Perspectives on Computational Analysis (Autumn 2018)
 
 |  | [Dr. Richard Evans](https://sites.google.com/site/rickecon/) | [Joshua G. Mausolf](http://jmausolf.github.io/) (TA) | [Nora Nickels](https://voices.uchicago.edu/nnickels/) (TA) |
 |--------------|----------------------------------------------------|-------------------------------------------------------|------------------------------------------------------|
 | Email | rwevans@uchicago.edu | jmausolf@uchicago.edu | nnickels@uchicago.edu |
 | Office | 208 McGiffert House | 204 McGiffert House | 205 McGiffert House |
-| Office Hours | Tu 10:30a-12:30p | Mo 1:30p-3:00p | Wed 2:00p-4:00p |
+| Office Hours | Tu 10:30a-12:30p | M 1:30p-3:00p | W 2:00p-4:00p |
 | GitHub | [rickecon](https://github.com/rickecon) | [jmausolf](https://github.com/jmausolf) | [nnickels](https://github.com/nnickels) |
 
 * **Meeting day/time**: MW 11:30-1:20pm, 247 Saieh Hall for Economics
