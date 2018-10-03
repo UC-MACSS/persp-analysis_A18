@@ -7,8 +7,8 @@
 | Office Hours | Tu 10:30a-12:30p | M 1:30p-3:00p | W 2:00p-4:00p |
 | GitHub | [rickecon](https://github.com/rickecon) | [jmausolf](https://github.com/jmausolf) | [nnickels](https://github.com/nnickels) |
 
-* **Meeting day/time**: MW 11:30am-1:20pm, 247 Saieh Hall for Economics
-* **Lab session**: W 4:30-5:20pm, 247 Saieh Hall for Economics
+* **Meeting day/time**: MW 11:30a-1:20p, 247 Saieh Hall for Economics
+* **Lab session**: W 4:30-5:20p, 247 Saieh Hall for Economics
 * Office hours also available by appointment
 
 
@@ -43,6 +43,7 @@ Grades will be based on your performance on nine assignments, each of which is w
 | Oct.  1 | M | Introduction to Comp Soc Sci | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Intro.pdf)             |    |
 | Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf) | [A1](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A1/Assign1.pdf) |
 |         |   |                              | CS2014       |    |
+|         |   |                              | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Git.pdf) |    |
 | Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
 | Oct. 10 | W | Observational data           |              | A2 |
 | Oct. 15 | M | Observational data           |              |    |
