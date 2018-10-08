@@ -44,8 +44,8 @@ Grades will be based on your performance on nine assignments, each of which is w
 | Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf), [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Git.pdf) | [A1](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A1/Assign1.pdf) |
 |         |   |                              | CS2014       |    |
 | Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
-| Oct. 10 | W | Observational data           |              | A2 |
-| Oct. 15 | M | Observational data           |              |    |
+| Oct. 10 | W | Observational data           | F2015, RW2000 | A2 |
+| Oct. 15 | M | Observational data           | KW2009, A2017 |    |
 | Oct. 17 | W | Simulated data               | Notes        | A3 |
 | Oct. 22 | M | Simulated data               |              |    |
 | Oct. 24 | W | Asking questions             | S2018, Ch. 3 | A4 |
@@ -65,8 +65,12 @@ Grades will be based on your performance on nine assignments, each of which is w
 
 ## References
 
+* [A2017] Abrahao, Bruno, Paolo Parigi, Alok Gupta, and Karen S. Cook, "Reputation offsets trust judgments based on social biases among Airbnb users," *PNAS*, 114:37 (September 12, 2017), pp. 9849-9853.
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
+* [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
+[KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
+[RW200] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
 * Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
 
 
