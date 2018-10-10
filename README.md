@@ -35,6 +35,20 @@ Grades will be based on your performance on nine assignments, each of which is w
     * You must submit your assignments by committing and pushing them to your fork of this GitHub repository on your personal GitHub account in the appropriate folder (e.g., `https://github.com/[YourGitHubHandle]/Assignments/A1/[filename]`.)
     * Assignments will be given on the day listed in the Daily Course Outline section of this syllabus (see below). In general, assignments will be due before class at 11:30am a week after they are assigned. However, exact due dates and times will be listed on the assignment.
 
+### Late Problem Sets
+
+Late problem sets will be penalized 1 points for every hour they are late. For example, if an assignment is due on Monday at 11:30am, the following points will be deducted based on the time stamp of the last commit.
+
+| Example PR last commit | points deducted |
+| ---------------------- | --------------- |
+| 11:31am to 12:30pm     | -1 points       |
+| 12:31pm to 1:30pm      | -2 points       |
+| 1:31pm to 2:30pm       | -3 points       |
+| 2:31pm to 3:30pm       | -4 points       |
+| ...                    | ...             |
+| 8:31pm and beyond      | -10 points (no credit) |
+
+
 
 ## Daily Course Schedule
 
