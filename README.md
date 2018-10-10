@@ -44,7 +44,7 @@ Grades will be based on your performance on nine assignments, each of which is w
 | Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf), [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Git.pdf) | [A1](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A1/Assign1.pdf) |
 |         |   |                              | CS2014       |    |
 | Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
-| Oct. 10 | W | Observational data           | F2015, RW2000 | A2 |
+| Oct. 10 | W | Observational data           | F2015, RW2000 | [A2](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A2/Assign2.pdf) |
 | Oct. 15 | M | Observational data           | KW2009, A2017 |    |
 | Oct. 17 | W | Simulated data               | Notes        | A3 |
 | Oct. 22 | M | Simulated data               |              |    |
