@@ -60,6 +60,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
 | Oct. 10 | W | Observational data           | F2015, RW2000 | [A2](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A2/Assign2.pdf) |
 | Oct. 15 | M | Observational data           | KW2009, A2017 |    |
+|         |   |                              | EKLS2015     |    |
 | Oct. 17 | W | Simulated data               | Notes        | A3 |
 | Oct. 22 | M | Simulated data               |              |    |
 | Oct. 24 | W | Asking questions             | S2018, Ch. 3 | A4 |
