@@ -84,11 +84,12 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
 * [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
+* [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018).
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
 * [L2010] Langtangen, Hans Petter, *Python Scripting for Computational Science*, Texts in Computational Science and Engineering, 3rd edition, Springer (2010).
 * [L2013] Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013).
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
-* [RW200] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
+* [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
 
 
