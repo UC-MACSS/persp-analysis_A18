@@ -1,0 +1,280 @@
+---
+title: 'Assignment #2'
+author: "Sanja Miklin"
+date: "October 17th, 2018 "
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+##1. Imputing age and gender.
+
+Before I dive into the data, I look at some simple decriptives to compare the two data sets
+```{r}
+#load data
+BestIncome <- read.csv("BestIncome.txt", header=F, col.names = c("lab_inc", "cap_inc", "hgt","wgt"))
+SurvIncome <- read.csv("SurvIncome.txt", header=F, col.names = c("tot_inc", "wgt", "age","female"))
+
+# load libraries
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(knitr)
+
+#summarize data to comapre
+
+BestIncome %>%
+    mutate(total_inc = cap_inc+lab_inc) %>%
+    summarize_all(funs(mean,min,max, sd)) %>%
+    gather(descriptives, value) %>%
+    separate(descriptives, c("variable","descriptive"), sep = "_(?!i)") %>%
+    spread(descriptive, value) %>%
+    select(variable, min, max, mean, sd) %>%
+    kable()
+    
+
+SurvIncome %>%
+    summarize_all(funs(mean,min,max, sd)) %>%
+    gather(descriptives, value) %>%
+    separate(descriptives, c("variable","descriptive"), sep = "_(?!i)") %>%
+    spread(descriptive, value) %>%
+    select(variable,min, max, mean, sd) %>%
+    kable(caption="hello!")
+```
+
+
+The mean of the shared variables, $tot\_inc$ and $wgt$ are fairly similar for both data sets. Notably, SD of $wgt$ is much larger in the second data set, which is a bit surprising.
+
+### a) Propose a strategy for imputing age ($age_i$) and gender ($female_i$) variables
+
+To impute age and gender into BestIncome, I would use a regression imputation. I would use Surv.Income data to run regression models that would estimate age and gender using the remaining variables shared by the two data sets, that is total income (labor income + capital income) and weight.
+
+Because female is a dummy variable taking only values 0 and 1, I would use logisic regression.
+
+```{r}
+# age linear model
+age_lm <- lm(age ~ tot_inc + wgt, data = SurvIncome)
+age_lm
+
+# gender logistic model
+female_lm <- glm(female ~ tot_inc + wgt, data = SurvIncome, family = binomial)
+female_lm
+```
+
+
+My formulas to impute age and gender are therefore the following:
+\[
+age_i =  44.2097 + 0.0000252 \times tot\_inc_i -0.0067221 \times wgt
+\]
+\[ 
+female_i =  \frac{\exp(76.7929-0.0001555 \times tot\_inc_i-0.4460 \times wgt)}{1+ \exp(76.7929-0.0001555 \times tot\_inc_i-0.4460 \times wgt)}
+\]
+
+I however, do note that that the $R^2$ for the $age$ model is really low and the coefficients are not significant. As coefficients are really small, the values produced through this imputation will all be very close to the mean. This is not ideal, but then again, simply using a mean value is a method of imputation as well. Still, I would not want to use this imputated variable in my data analysis.
+
+Aditionally, I have to other options of calculating $female_i$, that is I can either round the value to 0 or 1 as to make it more meaningful (although it seems that practice is dicouraged, as discussed \href{https://www.theanalysisfactor.com/multiple-imputation-5-recent-findings-that-change-how-to-use-it/}{\underline{here}}, or I can do a single Bernoulli draw using the value as p (as suggested \href{http://www2.sas.com/proceedings/sugi30/113-30.pdf}{\underline{here}}).
+
+
+### b) Impute the variables age ($age_i$) and gender ($female_i$) into the BestIncome.txt data.
+
+After testing all three approaches to imputing gender I mentioned above I saw they all produced a similar mean. I decided to go with the Bernoulli draw, as it looked fun, and it would produce meaningful values (0 and 1) without resorting to rouding, wich is apaprently an inferior method.
+```{r}
+# create age and female columns in BestIncome
+BestIncome <- BestIncome %>%
+    mutate(tot_inc = lab_inc+cap_inc) %>%
+    mutate(age = 44.2097 + 0.0000252*tot_inc - 0.0067221*wgt, female =  exp(76.7929-0.0001555*tot_inc-0.4460*wgt)/(1+exp(76.7929-0.0001555*tot_inc-0.4460*wgt))) %>%
+    select(lab_inc, cap_inc, hgt, wgt, age, female)
+
+# Bernoulli draw for the female variable
+for (i in seq_along(BestIncome$female)) {
+    BestIncome[i,6] <- as.integer(rbinom(1,1, BestIncome[i,6]))
+}
+
+kable(head(BestIncome))
+```
+
+
+### c) Report the mean, standard deviation, minimum, maximum and number of observations for your imputed age and gender variables.
+
+```{r}
+
+BestIncome %>%
+  select(age, female) %>%   
+  summarise_all(funs(mean = mean,
+                      sd = sd,
+                      min = min, 
+                      max = max,
+                      n = length)) %>%
+    gather(stat, val) %>%
+    separate(stat, into = c("var", "stat"), sep = "_") %>%
+    spread(stat, val) %>%
+    select(var, mean, sd, min, max, n) %>%
+    kable()  
+```
+
+
+### d) Report the correlation matrix for the now six variables in the BestIncome.txt data.
+
+```{r}
+BestIncome %>%
+    cor() %>%
+    kable()  
+
+```
+
+
+## 2. Stationarity and data drift
+Suppose that you wanted to test the hypothesis that higher intelligence is associated with higher income using two of the variables in the dataset IncomeIntel.txt.
+
+```{r}
+#load data
+IncomeIntel <- read.csv("IncomeIntel.txt", header=F, col.names = c("grad_year", "gre_qnt", "salary_p4"))
+```
+
+
+### a) Estimate the coefficients in the regression above by ordinary least squares without making any changes to the data. Report your estimated coeffi- cients and standard errors on those coefficients.
+
+```{r}
+glm_salary_p4 <- glm(salary_p4 ~ gre_qnt, data = IncomeIntel)
+
+summary(glm_salary_p4)
+
+```
+
+
+The estimated $\beta_0$  is $89541.293$ with a standard error of $878.764$.
+The estiamted $\beta_1$ is $-25.763$ with a standard error of $1.365$, and **is** significant.
+
+The regression model is $salary\_p4_i = 89541.293 -25.763\times gre\_qnt_i + \epsilon_i$
+
+### (b) Create a scatter plot of GRE quantitative score ($gre\_qnt_i$) on the y-axis and graduation year ($grad\_year_i$) on the x-axis. Do any problems jump out in this variable and your ability to use it in testing your hypothesis? Propose and implement a solution for using this variable in your regression.
+
+```{r}
+ggplot(IncomeIntel, aes(grad_year,gre_qnt)) +
+    geom_point(alpha = 0.1) +
+    labs(x="Year of Graduation", y="GRE Quant Score")
+```
+
+
+There seems to be a significant issue—the gre_qnt values are distributed between 600 and 800 up until 2010, and bellow 200 after 2010. This is because the GRE scale changed in 2011 from a [200,800] scale to a [130,170] scale.
+
+To use this data, we should scale all the data to the same scale.
+[GRE website](https://www.ets.org/s/gre/pdf/concordance_information.pdf) provides a concordance table for the actual scores, so it would be the best to use that one. However, an issue that emerges is that the old scale and the old tests did not differentiate high scores very well, and the score of 800 maps onto the score of 166, not 170 on the new scale.
+
+In order to implement this solution, I am converting the GRE scores in the data set to the actual GRE scores, that is rounding the old scale to the closest 10, and rounding the new scale to the closest integer.
+
+```{r}
+# read the conversion table I got from the GRE site
+gre_conversion <- read.csv("GRE_conversion.csv")
+
+# transform the gre data to actual gre scores...
+# first round old scores to 10, and new scores to 1
+# leftjoin the conersion table table and use it to change gre_qnt
+IncomeIntel_stand_gre <- IncomeIntel %>%
+    mutate(gre_qnt = ifelse(grad_year < 2011,  round(gre_qnt,-1),round(gre_qnt,0))) %>%       
+    left_join(gre_conversion, by = c("gre_qnt"="Prior.Scale"))  %>%   
+    mutate(gre_qnt = ifelse(grad_year < 2011,  Current.Scale, gre_qnt)) %>%
+    select(-Current.Scale, -X..Rank)
+
+#plot new data
+ggplot(IncomeIntel_stand_gre, aes(grad_year,gre_qnt)) +
+    geom_point(alpha = 0.1) +
+    labs(title = "Standarized GRE Scores",  x="Year of Graduation", y="GRE Quant Score")
+
+```
+
+
+This scatter plot looks much better. However, there is much more varriance in scores after 2010, likely because the new test is more difficult and spreads the high schores out more. This is not ideal, but it is what we've got. Ultiamtely, we can consider running analysis on the data up until 2010 only.
+
+
+###(c) Create a scatter plot of income 4 years after graduation ($salary p4_i$) on the y-axis and graduation year ($grad year_i$) on the x-axis. Do any problems jump out in this variable and your ability to use it in testing your hypothesis? Propose and implement a solution for using this variable in your regression.
+
+```{r}
+ggplot(IncomeIntel, aes(grad_year,salary_p4)) +
+    geom_point(alpha = 0.1) +
+    geom_smooth() +
+    scale_y_continuous(labels = scales::comma) +
+    labs(title = "Salary four years after graduation",  x="Year of Graduation", y="Salary")
+
+```
+
+
+There is a clear trend in the data—as the time increases, the mean income increases as well, likely due to inflation.
+
+To correct this, we can calculate the anual growth rate w.r.t. 2001 average income and then use that growth rate to standardize all values to the 2001 level.
+
+```{r}
+
+# find the mean income for each year
+mean_inc_year <- IncomeIntel %>%
+    group_by(grad_year) %>%
+    summarise(mean_sal = mean(salary_p4)) %>%
+    mutate(growth_rate = (mean_sal - lag(mean_sal, default = first(mean_sal)))/lag(mean_sal, default = first(mean_sal))) %>%
+    filter(!grad_year == 2001)
+
+#calculate growth rate
+avg_growth_rate <- mean(mean_inc_year$growth_rate)
+   
+#transform salary using the average growth rate.
+IncomeIntel_stand_sal <- IncomeIntel
+IncomeIntel_stand_sal$salary_p4 <- IncomeIntel_stand_sal$salary_p4/(1 + avg_growth_rate)^(IncomeIntel_stand_sal$grad_year - 2001)
+
+#plot transformed data
+ggplot(IncomeIntel_stand_sal, aes(grad_year,salary_p4)) +
+    geom_point(alpha = 0.1) +
+    geom_smooth() +  
+    scale_y_continuous(labels = scales::comma) +
+    labs(title = "Standardized salary four years after graduation",  x="Year of Graduation", y="Salary")
+
+```
+
+This looks much better!
+
+###(d) Using the changes you proposed in parts (b) and (c), re-estimate the re- gression coefficients with your updated salary p4i and gre qnti variables. Report your new estimated coefficients and standard errors on those coef- ficients. How do these coefficients differ from those in part (a)? Interpret why your changes from parts (b) and (c) resulted in those changes in co- efficient values? What does this suggest about the answer to the question (evidence for or against your hypothesis)?
+
+```{r}
+# Create new dataset by transforming salary in the modified GRE df
+IncomeIntel_trans <- IncomeIntel_stand_gre
+IncomeIntel_trans$salary_p4 <- IncomeIntel_trans$salary_p4/(1 + avg_growth_rate)^(IncomeIntel_trans$grad_year - 2001)
+
+# new model
+glm_salary_p4_new <- glm(salary_p4 ~ gre_qnt, data = IncomeIntel_trans)
+
+#compare old and new
+summary(glm_salary_p4)
+summary(glm_salary_p4_new)
+
+#plot new, separate out pre and post 2011
+IncomeIntel_trans %>%
+    mutate(post2011 = ifelse(grad_year < 2011,"No","Yes")) %>%
+    ggplot(aes(gre_qnt,salary_p4, color=post2011))+
+    geom_point(alpha = 0.4) +
+    geom_smooth() +
+    scale_y_continuous(labels = scales::comma) +
+    labs(title = "Standardized salary vs. Standardized GRE score",  x="Year of Graduation", y="Salary", color = "Post 2011?")
+
+```
+
+The estimated $\beta_0$  is $68190.79$ with a standard error of $10849.97$.
+The estiamted $\beta_1$ is $-43.26$ with a standard error of $69.30$, and **is not** significant.
+
+Although at first,the gre_qnt coefficient was significant, after the data was transformed this ceased to be the case. Most likely, time was the confounding factor: GRE scores were significantly higher before 2011, while salaries increased with later years of graduation. 
+
+After accounting for data drift, there doesn't seem to be a relationship between gre_qnt scores and income four yars after graduation. Thinking about our original hypothesis, the data offers no evidence that higher intelligence is associated with higher income.
+
+
+## 3. Assessment of Kossinets and Watts (2009)
+
+###Read the paper, Kossinets and Watts (2009). Write a one-to-two page response to the paper that answers the following questions. Make sure that your response is a single flowing composition that follows the rules of spelling, grammar, and good writing.
+
+In their reseach, Kossinets and Watts (2009)  set out to investigate the origins of homophily. More specifically, their research question is: **What are the roles of and the interplay between individual choice and structural constraints in the development of homophily in a social network?**
+
+To answer their question, the researchers used data from a large US university, including students, faculty and staff, that spans the fall and the spring semester. Their data set draws on **three separate sources***: 1) the logs of university e-mail interactions (timestamp, sender ID and recipient IDs), 2) a database of individual attributes of individuals (e.g. gender, age, department, status etc.) and 3) course registration records. After data cleaning, their data set comprised of **30,296 nodes**, that is stable (present for both semesters) e-mail users, and **7,156,162 tie observations**, that is the e-mails exchanged by the users over 270 days. The description and the definition of all variables can be found in Appendix A (pp. 439-42).
+
+During the data cleaning, a **large number of users and e-mails was excluded from the data set**. For example, of the 43,553 users that used university e-mail during the period of interest, 8,979 (around 20%) were *not* active during both semesters—according to the authors, likely due to population turnover—and were excluded from the analysis.  Further 4,178 (around 10%) were excluded because they were not exchanging e-mails with others in the university e-mail network, at it is unclear who those users are or why that is the case. Finally, an unknown number of e-mail accounts was excluded because they were not tied to the main university system (@university.edu) but rather the departmental system (@department.university.edu).  Furthermore, although bulk e-mails (sent to more than one recipient) were used to establish ‘implicit foci’ in analysis, which were used to determine the ‘strength of shared membership’, these bulk-emails (accounting for about 18% of all e-mails) were not included as indicators of actual relationships (even though the only record of a friendship might be in their participation in a group e-mail). As a result, the final dataset omitted an unknown number of e-mail relationships (or social relationships evident in the e-mail communications), as well as some individuals (e.g. those present only for a semester) that might’ve nevertheless facilitated relationship formation, both of which would have an impact on the results of the analysis.
+
+Most importantly, the use of e-mail logs to answer questions about “social relationships” is problematic in itself. On one hand, it is debatable to what extent an e-mail exchange (receiving and reciprocating an e-mail, which is taken as a tie within the author’s analysis) indicates and actual social relationship. For example, an administrator might request  that a student send over some documents, with a student responding , but it might not be appropriate to call this a “social relationship.” On the other hand, social relationships transcend both e-mail exchanges and the university. Much communication between actors occurs through other channels, such as over text, phone calls and especially in person (two roommates, though highly involved in each other’s social lives and networks, might never exchange an e-mail). At the same time, actors and groups outside of the university network, but within the community, might be playing a very important role in facilitating social relationship formation. The authors are aware, however, that *e-mail does not capture the whole relevant social network*, as they point out that they are interested “in the process of network evolution, rather than the network structure itself” (p. 417). From that standpoint, we can see the e-mail dataset as an *(accessible) subset of social relationships*, within which the process of relationship formation and dissolution can still be examined.
+
