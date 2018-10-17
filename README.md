@@ -62,8 +62,8 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct. 15 | M | Observational data           | F2015, RW2000 |    |
 |         |   |                              | KW2009, A2017 |    |
 |         |   |                              | EKLS2015     |    |
-| Oct. 17 | W | Simulated data               | Notes        | A3 |
-| Oct. 22 | M | Simulated data               |              |    |
+| Oct. 17 | W | Simulated data               | Slides       | [A3](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A3/Assign3.pdf) |
+| Oct. 22 | M | Simulated data               | M2002        |    |
 | Oct. 24 | W | Asking questions             | S2018, Ch. 3 | A4 |
 | Oct. 29 | M | Asking questions             |              |    |
 | Oct. 31 | W | Experiments                  | S2018, Ch. 4 | A5 |
@@ -94,6 +94,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [L2013] Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013).
 * [MM2009] Mas, Alexandre and Enrico Moretti, "Peers at Work," *American Economic Review*, 99:1 (2009), pp. 112-145.
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
+* [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
 
