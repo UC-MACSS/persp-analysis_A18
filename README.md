@@ -58,8 +58,9 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct.  3 | W | Git and GitHub               | [Notes](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Notes/Chap_Git.pdf), [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Git.pdf) | [A1](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A1/Assign1.pdf) |
 |         |   |                              | CS2014       |    |
 | Oct.  8 | M | Observational data, large data | S2018, Ch. 2 |    |
-| Oct. 10 | W | Observational data           | F2015, RW2000 | [A2](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A2/Assign2.pdf) |
-| Oct. 15 | M | Observational data           | KW2009, A2017 |    |
+| Oct. 10 | W | Observational data           | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Obs.pdf) | [A2](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A2/Assign2.pdf) |
+| Oct. 15 | M | Observational data           | F2015, RW2000 |    |
+|         |   |                              | KW2009, A2017 |    |
 |         |   |                              | EKLS2015     |    |
 | Oct. 17 | W | Simulated data               | Notes        | A3 |
 | Oct. 22 | M | Simulated data               |              |    |
@@ -82,6 +83,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 
 * [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
 * [A2017] Abrahao, Bruno, Paolo Parigi, Alok Gupta, and Karen S. Cook, "Reputation offsets trust judgments based on social biases among Airbnb users," *PNAS*, 114:37 (September 12, 2017), pp. 9849-9853.
+* [A1990] Angrist, Joshua D., "Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records," *American Economic Review*, 80:3 (1990), pp. 313-336.
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
@@ -90,6 +92,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
 * [L2010] Langtangen, Hans Petter, *Python Scripting for Computational Science*, Texts in Computational Science and Engineering, 3rd edition, Springer (2010).
 * [L2013] Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013).
+* [MM2009] Mas, Alexandre and Enrico Moretti, "Peers at Work," *American Economic Review*, 99:1 (2009), pp. 112-145.
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
