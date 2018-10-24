@@ -65,7 +65,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct. 17 | W | Simulated data               | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_SimData.pdf)       | [A3](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A3/Assign3.pdf) |
 | Oct. 22 | M | Simulated data               | M2002        |    |
 | Oct. 24 | W | Asking questions             | S2018, Ch. 3 | A4 |
-| Oct. 29 | M | Asking questions             |              |    |
+| Oct. 29 | M | Asking questions             | [CE2015](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf), WRGG2015 |    |
 | Oct. 31 | W | Experiments                  | S2018, Ch. 4 | A5 |
 | Nov.  5 | M | Experiments                  |              |    |
 | Nov.  7 | W | Collaboration                | S2018, Ch. 5 | A6 |
@@ -84,6 +84,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
 * [A2017] Abrahao, Bruno, Paolo Parigi, Alok Gupta, and Karen S. Cook, "Reputation offsets trust judgments based on social biases among Airbnb users," *PNAS*, 114:37 (September 12, 2017), pp. 9849-9853.
 * [A1990] Angrist, Joshua D., "Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records," *American Economic Review*, 80:3 (1990), pp. 313-336.
+* [CE2015] Canann, Taylor J. and Richard W. Evans, "Determinants of Short-term Lender Location and Interest Rates," *Journal of Financial Services Research,* 48:3, (Dec. 2015) pp. 235-262. [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf)]
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
@@ -96,6 +97,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
 * [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
+* [WRGG2015] Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman, "Forecasting Elections with Non-Representative Polls," *International Journal of Forecasting*, 31:3 (2015) pp. 980-991.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
 
 
