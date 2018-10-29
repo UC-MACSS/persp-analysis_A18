@@ -35,6 +35,12 @@ Grades will be based on your performance on nine assignments, each of which is w
     * You must submit your assignments by committing and pushing them to your fork of this GitHub repository on your personal GitHub account in the appropriate folder (e.g., `https://github.com/[YourGitHubHandle]/Assignments/A1/[filename]`.)
     * Assignments will be given on the day listed in the Daily Course Outline section of this syllabus (see below). In general, assignments will be due before class at 11:30am a week after they are assigned. However, exact due dates and times will be listed on the assignment.
 
+* **Plagiarism on writing assignments:** Josh and Nora held a Wednesday night lab on what constitutes plagiarism and how to avoid it. Academic honesty is an extremely important principle in academia and at the University of Chicago. See the course Canvas site library reserves for two chapters on plagiarism.
+    * Writing assignments must put in quotes and cite any excerpts taken from another work.
+    * If the cited work is the particular paper referenced in the Assignment, no works cited or references are necessary at the end of the composition.
+    * If the cited work is not the particular paper referenced in the Assignment, you MUST include a works cited or references section at the end of the composition.
+    * Any copying of other students' work will result in a zero grade and potential further academic discipline.
+
 ### Late Problem Sets
 
 Late problem sets will be penalized 1 points for every hour they are late. For example, if an assignment is due on Monday at 11:30am, the following points will be deducted based on the time stamp of the last commit.
