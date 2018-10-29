@@ -64,8 +64,9 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 |         |   |                              | EKLS2015     |    |
 | Oct. 17 | W | Simulated data               | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_SimData.pdf)       | [A3](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A3/Assign3.pdf) |
 | Oct. 22 | M | Simulated data               | M2002        |    |
-| Oct. 24 | W | Asking questions             | S2018, Ch. 3 | [A4](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A4/Assign4.pdf) |
+| Oct. 24 | W | Asking questions             | S2018, Ch. 3, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Surv.pdf) | [A4](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A4/Assign4.pdf) |
 | Oct. 29 | M | Asking questions             | [CE2015](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf), WRGG2015 |    |
+|         |   |                              | S2014, S2016 |    |
 | Oct. 31 | W | Experiments                  | S2018, Ch. 4 | A5 |
 | Nov.  5 | M | Experiments                  |              |    |
 | Nov.  7 | W | Collaboration                | S2018, Ch. 5 | A6 |
@@ -97,6 +98,8 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
 * [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
+* [S2014] Sugie, Naomi F., "Finding Work: A Smartphone Study of Job Searching, Social Contacts, and Wellbeing After Prison,"" PhD Thesis, Princeton University (2014). [link here](http://dataspace.princeton.edu/jspui/handle/88435/dsp011544br32k)
+* [S2016] Sugie, Naomi F., "Utilizing Smartphones to Study Disadvantaged and hard-to-Reach Groups," *Sociological Methods & Research*, January (2016).
 * [WRGG2015] Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman, "Forecasting Elections with Non-Representative Polls," *International Journal of Forecasting*, 31:3 (2015) pp. 980-991.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
 
