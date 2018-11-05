@@ -73,8 +73,10 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct. 24 | W | Asking questions             | S2018, Ch. 3, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Surv.pdf) | [A4](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A4/Assign4.pdf) |
 | Oct. 29 | M | Asking questions             | [CE2015](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf), WRGG2015 |    |
 |         |   |                              | S2014, S2016 |    |
+|         |   |                              | AH2012, B2014 |    |
 | Oct. 31 | W | Experiments                  | S2018, Ch. 4 | A5 |
-| Nov.  5 | M | Experiments                  |              |    |
+| Nov.  5 | M | Experiments                  | SNCGG2007, AR2014 |    |
+|         |   |                              | CK2013 |    |
 | Nov.  7 | W | Collaboration                | S2018, Ch. 5 | A6 |
 | Nov. 12 | M | Collaboration                |              |    |
 | Nov. 14 | W | Ethics                       | S2018, Ch. 6 | A7 |
@@ -88,11 +90,15 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 
 ## References
 
-* [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
 * [A2017] Abrahao, Bruno, Paolo Parigi, Alok Gupta, and Karen S. Cook, "Reputation offsets trust judgments based on social biases among Airbnb users," *PNAS*, 114:37 (September 12, 2017), pp. 9849-9853.
+* [AR2014] Alcott, Hunt and Todd Rogers, "The Short-run and Long-run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation," *American Economic Review*, 104:10 (2014), pp. 3,003-3,037.
 * [A1990] Angrist, Joshua D., "Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records," *American Economic Review*, 80:3 (1990), pp. 313-336.
+* [AH2012] Ansolabehere, Stephen and Eitan Hersh, "Validation: What Big Data Reveal about Survey Misreporting and the Real Electorate," *Political Analysis*, 20:3, (2012), pp. 437-459.
+* [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
+* [B2014] Blumenstock, Joshua (2014), "[Calling for Better Measuremenet: Estimating an Individual's Wealth and Well-Being from Mobile Phone Transaction Records](http://escholarship.org/uc/item8zs63942)," Presented at KDD--Data Science for Social Good 2014, New York.
 * [CE2015] Canann, Taylor J. and Richard W. Evans, "Determinants of Short-term Lender Location and Interest Rates," *Journal of Financial Services Research,* 48:3, (Dec. 2015) pp. 235-262. [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf)]
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
+* [CK2013] Costa, Dora L. and Matthew E. Kahn, "Energy Conservation Nudges and Environmentalist Ideology: Evidence from a Randomized Residential Electricity Field Experiment," *Journal of the European Economic Association, 11:3 (2013), pp. 680-702.
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
 * [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
@@ -104,6 +110,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
 * [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
+* [SNCGG2007] Schultz, P. Wesley, Jessica M. Nolan, Robert B. Cialdini, Noah J. Goldstein, and Vladas Griskevicius, "The Constructive, Destructive, and Reconstructive Power of Social Norms," *Psychological Science*, 18:5 (2007), pp. 429-434.
 * [S2014] Sugie, Naomi F., "Finding Work: A Smartphone Study of Job Searching, Social Contacts, and Wellbeing After Prison,"" PhD Thesis, Princeton University (2014). [link here](http://dataspace.princeton.edu/jspui/handle/88435/dsp011544br32k)
 * [S2016] Sugie, Naomi F., "Utilizing Smartphones to Study Disadvantaged and hard-to-Reach Groups," *Sociological Methods & Research*, January (2016).
 * [WRGG2015] Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman, "Forecasting Elections with Non-Representative Polls," *International Journal of Forecasting*, 31:3 (2015) pp. 980-991.
