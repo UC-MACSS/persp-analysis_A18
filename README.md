@@ -74,7 +74,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct. 29 | M | Asking questions             | [CE2015](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf), WRGG2015 |    |
 |         |   |                              | S2014, S2016 |    |
 |         |   |                              | AH2012, B2014 |    |
-| Oct. 31 | W | Experiments                  | S2018, Ch. 4 | [A5](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A5/Assign5.pdf) |
+| Oct. 31 | W | Experiments                  | S2018, Ch. 4, Slides | [A5](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A5/Assign5.pdf) |
 | Nov.  5 | M | Experiments                  | SNCGG2007, AR2014 |    |
 |         |   |                              | CK2013, L2006 |    |
 | Nov.  7 | W | Collaboration                | S2018, Ch. 5 | A6 |
