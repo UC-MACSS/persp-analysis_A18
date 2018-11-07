@@ -74,7 +74,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct. 29 | M | Asking questions             | [CE2015](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf), WRGG2015 |    |
 |         |   |                              | S2014, S2016 |    |
 |         |   |                              | AH2012, B2014 |    |
-| Oct. 31 | W | Experiments                  | S2018, Ch. 4, Slides | [A5](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A5/Assign5.pdf) |
+| Oct. 31 | W | Experiments                  | S2018, Ch. 4, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Exper.pdf) | [A5](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A5/Assign5.pdf) |
 | Nov.  5 | M | Experiments                  | SNCGG2007, AR2014 |    |
 |         |   |                              | CK2013, L2006 |    |
 | Nov.  7 | W | Collaboration                | S2018, Ch. 5 | A6 |
@@ -91,7 +91,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 ## References
 
 * [A2017] Abrahao, Bruno, Paolo Parigi, Alok Gupta, and Karen S. Cook, "Reputation offsets trust judgments based on social biases among Airbnb users," *PNAS*, 114:37 (September 12, 2017), pp. 9849-9853.
-* [AR2014] Alcott, Hunt and Todd Rogers, "The Short-run and Long-run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation," *American Economic Review*, 104:10 (2014), pp. 3,003-3,037.
+* [AR2014] Alcott, Hunt and Todd Rogers, "The Short-run and Long-run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation," *American Economic Review*, 104:10 (Oct. 2014), pp. 3,003-3,037.
 * [A1990] Angrist, Joshua D., "Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records," *American Economic Review*, 80:3 (1990), pp. 313-336.
 * [AH2012] Ansolabehere, Stephen and Eitan Hersh, "Validation: What Big Data Reveal about Survey Misreporting and the Real Electorate," *Political Analysis*, 20:3, (2012), pp. 437-459.
 * [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
