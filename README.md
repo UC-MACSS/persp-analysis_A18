@@ -77,15 +77,16 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Oct. 31 | W | Experiments                  | S2018, Ch. 4, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Exper.pdf) | [A5](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A5/Assign5.pdf) |
 | Nov.  5 | M | Experiments                  | SNCGG2007, AR2014 |    |
 |         |   |                              | CK2013, L2006 |    |
-| Nov.  7 | W | Collaboration                | S2018, Ch. 5, Slides | [A6](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A6/Assign6.pdf) |
+| Nov.  7 | W | Collaboration                | S2018, Ch. 5, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Collab.pdf) | [A6](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A6/Assign6.pdf) |
 | Nov. 12 | M | Collaboration                | W2014, BKV2010 |    |
-| Nov. 14 | W | Ethics                       | S2018, Ch. 6 | A7 |
-| Nov. 19 | M | Ethics                       |              |    |
-| Nov. 21 | W | CSS: Sociology               |              | A8 |
-| Nov. 26 | M | CSS: Political Science       |              |    |
-| Nov. 28 | W | CSS: Psychology              |              | A9 |
-| Dec.  3 | M | CSS: Economics               |              |    |
-| Dec.  5 | W | TBD                          |              |    |
+|         |   |                              | EJQ2016      |    |
+| Nov. 14 | W | Research collaboration       | Slides       | A7 |
+| Nov. 19 | M | Ethics                       | S2018, Ch. 6 |    |
+| Nov. 21 | W | Ethics                       |              | A8 |
+| Nov. 26 | M | CSS: Sociology               |              |    |
+| Nov. 28 | W | CSS: Political Science       |              | A9 |
+| Dec.  3 | M | CSS: Psychology              |              |    |
+| Dec.  5 | W | CSS: Economics               |              |    |
 
 
 ## References
@@ -102,6 +103,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [CK2013] Costa, Dora L. and Matthew E. Kahn, "Energy Conservation Nudges and Environmentalist Ideology: Evidence from a Randomized Residential Electricity Field Experiment," *Journal of the European Economic Association*, 11:3 (2013), pp. 680-702.
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
+* [EJQ2016] Evans, Richard W., Kenneth L. Judd, and Kramer Quist, "Big Data Techniques as a Solution to Theory Problems," in *Conquering Big Data with High Performance Computing, ed. Ritu Arora, Springer (2016). [link to paper](https://sites.google.com/site/rickecon/BigDataChap.pdf)
 * [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
 * [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018).
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
