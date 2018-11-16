@@ -105,7 +105,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
 * [EJQ2016] Evans, Richard W., Kenneth L. Judd, and Kramer Quist, "Big Data Techniques as a Solution to Theory Problems," in *Conquering Big Data with High Performance Computing*, ed. Ritu Arora, Springer (2016). [link to paper](https://sites.google.com/site/rickecon/BigDataChap.pdf)
 * [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
-* [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018).
+* [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018). [link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/Gopalan2018.pdf)
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
 * [L2010] Langtangen, Hans Petter, *Python Scripting for Computational Science*, Texts in Computational Science and Engineering, 3rd edition, Springer (2010).
 * [L2006] List, John A., "*Friend or Foe?* A Natural Experiment of the Prisoner's Dilemma," *Review of Economics and Statistics*, 88:3 (August 2006), pp. 463-471.
