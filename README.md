@@ -25,6 +25,7 @@ Computational Social Science (CSS) combines the theoretical paradigms of the soc
 ## Required Text
 
 * [S2018] Salganik, Matthew J., *Bit by Bit: Social Research in the Digital Age*,  Princeton University Press, 2018. [free online version](https://www.bitbybitbook.com/en/1st-ed/preface/)
+    * You should buy a copy of this book BECAUSE there is a free online version. It will also be a valuable reference in your personal library, and will remain relevant for many years.
 
 
 ## Grades
@@ -103,9 +104,9 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [CK2013] Costa, Dora L. and Matthew E. Kahn, "Energy Conservation Nudges and Environmentalist Ideology: Evidence from a Randomized Residential Electricity Field Experiment," *Journal of the European Economic Association*, 11:3 (2013), pp. 680-702.
 * [DEP2018] DeBacker, Jason and Richard W. Evans and Kerk L. Phillips, "Integrating Microsimulation Models of Tax Policy into a DGE Macroeconomics Framework," *Public Finance Review*, forthcoming. [[link to paper](https://sites.google.com/site/rickecon/DEP_TaxFuncs.pdf)]
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
-* [EJQ2016] Evans, Richard W., Kenneth L. Judd, and Kramer Quist, "Big Data Techniques as a Solution to Theory Problems," in *Conquering Big Data with High Performance Computing*, ed. Ritu Arora, Springer (2016). [link to paper](https://sites.google.com/site/rickecon/BigDataChap.pdf)
+* [EJQ2016] Evans, Richard W., Kenneth L. Judd, and Kramer Quist, "Big Data Techniques as a Solution to Theory Problems," in *Conquering Big Data with High Performance Computing*, ed. Ritu Arora, Springer (2016). [[link to paper](https://sites.google.com/site/rickecon/BigDataChap.pdf)]
 * [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
-* [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018). [link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/Gopalan2018.pdf)
+* [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018). [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/Gopalan2018.pdf)]
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
 * [L2010] Langtangen, Hans Petter, *Python Scripting for Computational Science*, Texts in Computational Science and Engineering, 3rd edition, Springer (2010).
 * [L2006] List, John A., "*Friend or Foe?* A Natural Experiment of the Prisoner's Dilemma," *Review of Economics and Statistics*, 88:3 (August 2006), pp. 463-471.
@@ -115,7 +116,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
 * [SNCGG2007] Schultz, P. Wesley, Jessica M. Nolan, Robert B. Cialdini, Noah J. Goldstein, and Vladas Griskevicius, "The Constructive, Destructive, and Reconstructive Power of Social Norms," *Psychological Science*, 18:5 (2007), pp. 429-434.
-* [S2014] Sugie, Naomi F., "Finding Work: A Smartphone Study of Job Searching, Social Contacts, and Wellbeing After Prison,"" PhD Thesis, Princeton University (2014). [link here](http://dataspace.princeton.edu/jspui/handle/88435/dsp011544br32k)
+* [S2014] Sugie, Naomi F., "Finding Work: A Smartphone Study of Job Searching, Social Contacts, and Wellbeing After Prison,"" PhD Thesis, Princeton University (2014). [[link here](http://dataspace.princeton.edu/jspui/handle/88435/dsp011544br32k)]
 * [S2016] Sugie, Naomi F., "Utilizing Smartphones to Study Disadvantaged and hard-to-Reach Groups," *Sociological Methods & Research*, January (2016).
 * [WRGG2015] Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman, "Forecasting Elections with Non-Representative Polls," *International Journal of Forecasting*, 31:3 (2015) pp. 980-991.
 * [W2014] Watts, Duncan J., "Common Sense and Sociological Explanations," *American Journal of Sociology*, 120:2 (Sep. 2014), pp. 313-351.
