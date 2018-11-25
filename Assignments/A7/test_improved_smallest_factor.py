@@ -48,11 +48,11 @@ def test_improved_smallest_factor7():
     Test large prime number
     '''
     assert isf.improved_smallest_factor(83) == \
-            83, "Expected a positive integer, Got a float"
+            83, "Wrong answer"
 
 def test_improved_smallest_factor8():
     '''
     Test large non-prime number
     '''
     assert isf.improved_smallest_factor(150) == \
-            2, "Expected a positive integer, Got a float"
+            2, "Wrong answer"
