@@ -82,8 +82,8 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Nov. 12 | M | Collaboration                | W2014, BKV2010 |    |
 |         |   |                              | EJQ2016      |    |
 | Nov. 14 | W | Research collaboration       | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Rsrch.pdf), [HJ2018](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/UnitTesting_Ch7.pdf) | [A7](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A7/Assign7.pdf) |
-| Nov. 19 | M | Ethics                       | S2018, Ch. 6 |    |
-| Nov. 21 | W | Ethics                       |              | A8 |
+| Nov. 19 | M | Ethics                       | S2018, Ch. 6, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Ethics.pdf) |    |
+| Nov. 21 | W | Ethics                       |              | [A8](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A8/Assign8.pdf) |
 | Nov. 26 | M | CSS: Sociology               |              |    |
 | Nov. 28 | W | CSS: Political Science       |              | A9 |
 | Dec.  3 | M | CSS: Psychology              |              |    |
