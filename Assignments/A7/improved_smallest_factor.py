@@ -9,6 +9,5 @@ def improved_smallest_factor(n):
     for i in range(2, int(n**.5) + 1):
         print('for executed', i)
         if n % i == 0:
-            print(n, i)
             return i
     return n
