@@ -83,7 +83,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 |         |   |                              | EJQ2016      |    |
 | Nov. 14 | W | Research collaboration       | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Rsrch.pdf), [HJ2018](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/UnitTesting_Ch7.pdf) | [A7](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A7/Assign7.pdf) |
 | Nov. 19 | M | Ethics                       | S2018, Ch. 6, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Ethics.pdf) |    |
-| Nov. 21 | W | Ethics                       |              | [A8](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A8/Assign8.pdf) |
+| Nov. 21 | W | Ethics                       | BF2015, Z2010 | [A8](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A8/Assign8.pdf) |
 | Nov. 26 | M | CSS: Sociology               |              |    |
 | Nov. 28 | W | CSS: Political Science       |              | A9 |
 | Dec.  3 | M | CSS: Psychology              |              |    |
@@ -99,6 +99,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
 * [BKV2010] Bell, Robert M., Yehuda Koren, and Chris Volinsky, "All Together Now: A Perspective on the Netflix Prize," *Chance*, 23:1 (2010), pp. 24-29.
 * [B2014] Blumenstock, Joshua (2014), "[Calling for Better Measuremenet: Estimating an Individual's Wealth and Well-Being from Mobile Phone Transaction Records](http://escholarship.org/uc/item8zs63942)," Presented at KDD--Data Science for Social Good 2014, New York.
+* [BF2015] Burnett, Sam and Nick Feamster, "Encore: Lightweight Measurement of Web Censorship with Cross-Origin Requests," in *Proceedings of the 2015 ACM Conference on Special Interest Groups on Data Communication*, ACM, London (2015), pp. 653-667.
 * [CE2015] Canann, Taylor J. and Richard W. Evans, "Determinants of Short-term Lender Location and Interest Rates," *Journal of Financial Services Research,* 48:3, (Dec. 2015) pp. 235-262. [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf)]
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
 * [CK2013] Costa, Dora L. and Matthew E. Kahn, "Energy Conservation Nudges and Environmentalist Ideology: Evidence from a Randomized Residential Electricity Field Experiment," *Journal of the European Economic Association*, 11:3 (2013), pp. 680-702.
@@ -122,6 +123,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [WRGG2015] Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman, "Forecasting Elections with Non-Representative Polls," *International Journal of Forecasting*, 31:3 (2015) pp. 980-991.
 * [W2014] Watts, Duncan J., "Common Sense and Sociological Explanations," *American Journal of Sociology*, 120:2 (Sep. 2014), pp. 313-351.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
+* [Z2010] Zimmer, Michael, "But the Data is Already Public: On the Ethics of Research in Facebook," *Ethics and Information Technology*, 12:4 (2010), pp. 313-325.
 
 
 ## Jupyter Notebooks
