@@ -99,7 +99,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
 * [BKV2010] Bell, Robert M., Yehuda Koren, and Chris Volinsky, "All Together Now: A Perspective on the Netflix Prize," *Chance*, 23:1 (2010), pp. 24-29.
 * [B2014] Blumenstock, Joshua (2014), "[Calling for Better Measuremenet: Estimating an Individual's Wealth and Well-Being from Mobile Phone Transaction Records](http://escholarship.org/uc/item8zs63942)," Presented at KDD--Data Science for Social Good 2014, New York.
-* [B2018] Bonica, Adam, "Inferring Roll Call Scores from Campaign Contributions Using Supervised Machine Learning," *American Journal of Political Science*, (forthcoming, 2018).
+* [B2018] Bonica, Adam, "Inferring Roll Call Scores from Campaign Contributions Using Supervised Machine Learning," *American Journal of Political Science*, (forthcoming, 2018). [[link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2732913)]
 * [BF2015] Burnett, Sam and Nick Feamster, "Encore: Lightweight Measurement of Web Censorship with Cross-Origin Requests," in *Proceedings of the 2015 ACM Conference on Special Interest Groups on Data Communication*, ACM, London (2015), pp. 653-667.
 * [CE2015] Canann, Taylor J. and Richard W. Evans, "Determinants of Short-term Lender Location and Interest Rates," *Journal of Financial Services Research,* 48:3, (Dec. 2015) pp. 235-262. [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf)]
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
