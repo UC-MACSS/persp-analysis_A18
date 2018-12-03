@@ -85,9 +85,9 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Nov. 19 | M | Ethics                       | S2018, Ch. 6, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Ethics.pdf) |    |
 | Nov. 21 | W | Ethics                       | BF2015, Z2010 | [A8](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A8/Assign8.pdf) |
 | Nov. 26 | M | CSS: Sociology               |              |    |
-| Nov. 28 | W | CSS: Political Science       | B2018, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompPolSci.pdf) | A9 |
+| Nov. 28 | W | CSS: Political Science       | B2018, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompPolSci.pdf) | [A9](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A9/Assign9.pdf) |
 | Dec.  3 | M | CSS: Psychology              |              |    |
-| Dec.  5 | W | CSS: Economics               |              |    |
+| Dec.  5 | W | CSS: Economics               | A2018, BS2017 [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompEcon.pdf) |    |
 
 
 ## References
@@ -96,10 +96,12 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [AR2014] Alcott, Hunt and Todd Rogers, "The Short-run and Long-run Effects of Behavioral Interventions: Experimental Evidence from Energy Conservation," *American Economic Review*, 104:10 (Oct. 2014), pp. 3,003-3,037.
 * [A1990] Angrist, Joshua D., "Lifetime Earnings and the Vietnam Era Draft Lottery: Evidence from Social Security Administrative Records," *American Economic Review*, 80:3 (1990), pp. 313-336.
 * [AH2012] Ansolabehere, Stephen and Eitan Hersh, "Validation: What Big Data Reveal about Survey Misreporting and the Real Electorate," *Political Analysis*, 20:3, (2012), pp. 437-459.
+* [A2018] Athey, Susan, "[The Impact of Machine Learning on Economics](https://www.nber.org/chapters/c14009.pdf)," in *The Economics of Artificial Intelligence: An Agenda*, eds. Ajay K. Agrawal, Joshua Gans, and Avi Goldfarb, National Bureau of Economic Research (forthcoming, 2018).
 * [B2009] Beazley, David M., *Python Essential Reference*, 4th edition, Addison-Wesley (2009).
 * [BKV2010] Bell, Robert M., Yehuda Koren, and Chris Volinsky, "All Together Now: A Perspective on the Netflix Prize," *Chance*, 23:1 (2010), pp. 24-29.
 * [B2014] Blumenstock, Joshua (2014), "[Calling for Better Measuremenet: Estimating an Individual's Wealth and Well-Being from Mobile Phone Transaction Records](http://escholarship.org/uc/item8zs63942)," Presented at KDD--Data Science for Social Good 2014, New York.
 * [B2018] Bonica, Adam, "Inferring Roll Call Scores from Campaign Contributions Using Supervised Machine Learning," *American Journal of Political Science*, (forthcoming, 2018). [[link to paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2732913)]
+* [BS2017] Brumm, Johannes and Simon Scheidegger, "[Using Adaptive Sparse Grids to Solve High-dimensional Dynamic Models](https://onlinelibrary.wiley.com/doi/abs/10.3982/ECTA12216)," *Econometrica*, 85:5, pp. 1575-1612 (Sep. 2017)
 * [BF2015] Burnett, Sam and Nick Feamster, "Encore: Lightweight Measurement of Web Censorship with Cross-Origin Requests," in *Proceedings of the 2015 ACM Conference on Special Interest Groups on Data Communication*, ACM, London (2015), pp. 653-667.
 * [CE2015] Canann, Taylor J. and Richard W. Evans, "Determinants of Short-term Lender Location and Interest Rates," *Journal of Financial Services Research,* 48:3, (Dec. 2015) pp. 235-262. [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/CanannEvans2015.pdf)]
 * [CS2014] Chacon, Scott and Ben Straub, *Pro Git: Everything You Need to Know about Git*, 2nd Edition, Apress, 2014. [Free online version](https://git-scm.com/book/en/v2)
