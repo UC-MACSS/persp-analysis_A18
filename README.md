@@ -84,9 +84,9 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Nov. 14 | W | Research collaboration       | [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Rsrch.pdf), [HJ2018](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/UnitTesting_Ch7.pdf) | [A7](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A7/Assign7.pdf) |
 | Nov. 19 | M | Ethics                       | S2018, Ch. 6, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Ethics.pdf) |    |
 | Nov. 21 | W | Ethics                       | BF2015, Z2010 | [A8](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A8/Assign8.pdf) |
-| Nov. 26 | M | CSS: Sociology               |              |    |
+| Nov. 26 | M | CSS: Sociology               | KTE2018, MDSW2017, Slides |    |
 | Nov. 28 | W | CSS: Political Science       | B2018, GST2018, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompPolSci.pdf) | [A9](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A9/Assign9.pdf) |
-| Dec.  3 | M | CSS: Psychology              |              |    |
+| Dec.  3 | M | CSS: Psychology              | SMBMYF2018, YSCBGS2014, Slides |    |
 | Dec.  5 | W | CSS: Economics               | A2018, BS2017, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompEcon.pdf) |    |
 
 
@@ -114,9 +114,11 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018). [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/Gopalan2018.pdf)]
 * [HJ2018] Humpherys, Jeffrey and Tyler J. Jarvis, "Unit Testing," Ch. 7 *Labs for Foundations of Applied Mathematics: Python Essentials*, Creative Commons, Open Access (2018). [[link here](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/UnitTesting_Ch7.pdf)]
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
+* [KTE2018] Kozlowski, Austin C.,  Matt Taddy, and James A. Evans, "[The Geometry of Culture: Analyzing Meaning through Word Embeddings](https://arxiv.org/pdf/1803.09288.pdf)," working paper, Knowledge Lab, University of Chicago, under review (2018).
 * [L2010] Langtangen, Hans Petter, *Python Scripting for Computational Science*, Texts in Computational Science and Engineering, 3rd edition, Springer (2010).
 * [L2006] List, John A., "*Friend or Foe?* A Natural Experiment of the Prisoner's Dilemma," *Review of Economics and Statistics*, 88:3 (August 2006), pp. 463-471.
 * [L2013] Lutz, Mark, *Learning Python*, 5th edition, O'Reilly Media, Inc. (2013).
+* [MDSW2017] Mao, Andrew, Lili Dworkin, Siddharth Suri, and Duncan J. Watts, "[Resilient Cooperators Stabilize Long-run Cooperation in the Finitely Repeated Prisoner’s Dilemma](https://www.sciencedirect.com/science/article/pii/S1053811914002353)," *Nature Communications*, p. 13800 (January 2017).
 * [MM2009] Mas, Alexandre and Enrico Moretti, "Peers at Work," *American Economic Review*, 99:1 (2009), pp. 112-145.
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
 * [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
@@ -128,6 +130,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [WRGG2015] Wang, Wei, David Rothschild, Sharad Goel, and Andrew Gelman, "Forecasting Elections with Non-Representative Polls," *International Journal of Forecasting*, 31:3 (2015) pp. 980-991.
 * [W2014] Watts, Duncan J., "Common Sense and Sociological Explanations," *American Journal of Sociology*, 120:2 (Sep. 2014), pp. 313-351.
 * [WWE2018] Wu, Lingfei, Dashun Wang, and James A. Evans, "Large Teams Have Developed Science and Technology; Small Teams Have Disrupted It," working paper, 2018. [[link here](https://arxiv.org/pdf/1709.02445.pdf)]
+* [YSCBGS2014] Yourganov, Grigori, Tanya Schmah, Nathan W. Churchill, Marc G. Berman, Cheryl L. Grady, and Stephen C. Strother, "[Pattern Classification of fMRI Data: Applications for Analysis of Spatially Distributed Cortical Networks](https://www.sciencedirect.com/science/article/pii/S1053811914002353)," *NeuroImage*, 96:1, pp. 117-132 (August 2014).
 * [Z2010] Zimmer, Michael, "But the Data is Already Public: On the Ethics of Research in Facebook," *Ethics and Information Technology*, 12:4 (2010), pp. 313-325.
 
 
