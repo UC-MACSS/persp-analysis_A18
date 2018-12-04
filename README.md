@@ -85,9 +85,9 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 | Nov. 19 | M | Ethics                       | S2018, Ch. 6, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_Ethics.pdf) |    |
 | Nov. 21 | W | Ethics                       | BF2015, Z2010 | [A8](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A8/Assign8.pdf) |
 | Nov. 26 | M | CSS: Sociology               |              |    |
-| Nov. 28 | W | CSS: Political Science       | B2018, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompPolSci.pdf) | [A9](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A9/Assign9.pdf) |
+| Nov. 28 | W | CSS: Political Science       | B2018, GST2018, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompPolSci.pdf) | [A9](https://github.com/UC-MACSS/persp-analysis_A18/tree/master/Assignments/A9/Assign9.pdf) |
 | Dec.  3 | M | CSS: Psychology              |              |    |
-| Dec.  5 | W | CSS: Economics               | A2018, BS2017 [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompEcon.pdf) |    |
+| Dec.  5 | W | CSS: Economics               | A2018, BS2017, [Slides](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Slides/PerspAnalysis_CompEcon.pdf) |    |
 
 
 ## References
@@ -110,6 +110,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [EKLS2015] Einav, Liran, Theresa Kuchler, Jonathan Levin, Neel Sundaresan, "Assessing Sale Strategies in Online Markets Using Matched Listings," *American Economic Journal: Microeconomics*, 7:2 (2015), pp. 215-247.
 * [EJQ2016] Evans, Richard W., Kenneth L. Judd, and Kramer Quist, "Big Data Techniques as a Solution to Theory Problems," in *Conquering Big Data with High Performance Computing*, ed. Ritu Arora, Springer (2016). [[link to paper](https://sites.google.com/site/rickecon/BigDataChap.pdf)]
 * [F2015] Farber, Henry S., "Why You Can't Find a Taxi in the Rain and Other Labor Supply Lessons from Cab Drivers," *Quarterly Journal of Economics*, 130:4 (2015), pp. 1975-2026.
+* [GST2018] Gentzkow, Matthew, Jesse M. Shapiro, and Matt Taddy, "[Measuring Group Differences in High-dimensional Choices: Mothod and Application to Congressional Speech](http://web.stanford.edu/~gentzkow/research/politext.pdf)," NBER Working Paper \#22423 (August 2018).
 * [G2018] Gopalan, Sushmita, "Predicting Infant Mortality: Minimizing False Negatives," unpublished MACSS thesis (2018). [[link to paper](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/Gopalan2018.pdf)]
 * [HJ2018] Humpherys, Jeffrey and Tyler J. Jarvis, "Unit Testing," Ch. 7 *Labs for Foundations of Applied Mathematics: Python Essentials*, Creative Commons, Open Access (2018). [[link here](https://github.com/UC-MACSS/persp-analysis_A18/blob/master/Papers/UnitTesting_Ch7.pdf)]
 * [KW2009] Kossinets, Gueorgi and Duncan J. Watts, "Origins of Homophily in an Evolving Social Network," *American Journal of Sociology* 115:2, (2009), pp. 405-450.
@@ -120,6 +121,7 @@ Late problem sets will be penalized 1 points for every hour they are late. For e
 * [M2018] McKinney, Wes, *Python for Data Analysis*, 2nd edition, O'Reilly Media, Inc. (2018).
 * [M2002] Moretti, Sabrina, "Computer Simulation in Sociology: What Contribution?" *Social Science Computer Review*, 20:1 (Spring 2002), pp. 43-57.
 * [RW2000] Rosenzweig, Mark R. and Kennith I. Wolpin, "Natural 'Natural Experiments' in Economics," *Journal of Economic Literature*, 38:4 (Dec. 2000), pp. 827-874.
+* [SMBMYF2018] Sanchez, Alessandro, Stephan C. Meylan, Mika Braginsky, Kyle E. MacDonald, Daniel Yurovsky, and Michael C. Frank, "[childes-db: a Flexible and Reproducible Interface to the Child Language Data Exchange](https://callab.uchicago.edu/papers/smbmyf-brm-underreview.pdf)," under review (2018)
 * [SNCGG2007] Schultz, P. Wesley, Jessica M. Nolan, Robert B. Cialdini, Noah J. Goldstein, and Vladas Griskevicius, "The Constructive, Destructive, and Reconstructive Power of Social Norms," *Psychological Science*, 18:5 (2007), pp. 429-434.
 * [S2014] Sugie, Naomi F., "Finding Work: A Smartphone Study of Job Searching, Social Contacts, and Wellbeing After Prison,"" PhD Thesis, Princeton University (2014). [[link here](http://dataspace.princeton.edu/jspui/handle/88435/dsp011544br32k)]
 * [S2016] Sugie, Naomi F., "Utilizing Smartphones to Study Disadvantaged and hard-to-Reach Groups," *Sociological Methods & Research*, January (2016).
